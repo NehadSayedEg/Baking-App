@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <string name="title_recipe_name">Recipe Name</string>
+    <string name="title_Recipe_ingredients">Recipe Ingredients</string>
+    <string name="title_steps">Steps</string>
+    <string name="title_step">Step</string>
+    <string name="title_description">Description</string>
+
+    <string name="TextError"> Make sure you are connected to the internet</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_placeholder_text">No recipe selected, click to start cooking.</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
